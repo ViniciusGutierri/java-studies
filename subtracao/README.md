@@ -1,4 +1,4 @@
-<h1>Exercício Subtracao</h1>
+<h1>Exercício Subtração</h1>
 
 <h2>📃 Sobre</h2>
 <p>Exercício proposto durante o curso "Java: criando a sua primeira aplicação" na Alura.</p>
