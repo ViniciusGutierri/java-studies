@@ -20,6 +20,6 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        return this.getNome() + ", " + this.getIdade();
+        return "Nome: " + this.getNome() + " Idade: " + this.getIdade();
     }
 }
